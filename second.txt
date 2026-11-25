@@ -1,0 +1,10 @@
+we're learning git
+and after that we'll go to home
+../
+./
+/.
+|
+|
+\
+.\
+..\
